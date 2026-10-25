@@ -4,9 +4,9 @@
 export const site = {
   name: 'ApexMain',
   /** Production origin (GitHub Pages). Change together with `base` when a custom domain is connected. */
-  origin: 'https://mikhail-pracovnik.github.io',
+  origin: 'https://apexmain.online',
   /** Path prefix of the GitHub Pages project site. Use '/' for a custom domain. */
-  base: '/apexmain-site',
+  base: '/',
 
   /**
    * Demo mode: while true, every page gets `noindex, nofollow` and robots.txt disallows crawling.
